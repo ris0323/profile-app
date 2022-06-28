@@ -42,8 +42,13 @@ export default class About extends Component {
                                     </span>
                                     <div className="desc">
                                         <h3>Web Development網頁開發 </h3>
-                                        <p>作品官網專案使用 React
-                                            ，Vue，HTML，CSS，Bootstrap5</p>
+                                        <p>
+                                            Vue<br></br>
+                                            React<br></br>
+                                            Bootstrap5<br></br>
+                                            PM專案管理<br></br>
+                                            HTML，CSS，JS
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -54,7 +59,8 @@ export default class About extends Component {
                                     </span>
                                     <div className="desc">
                                         <h3>Back End資料庫</h3>
-                                        <p>⚫MySQL</p>
+                                        <p>MySql</p>
+
                                     </div>
                                 </div>
                             </div>
@@ -65,9 +71,11 @@ export default class About extends Component {
                                     </span>
                                     <div className="desc">
                                         <h3>UI</h3>
-                                        <p>⚫Figma
-                                            ⚫Photoshop
-                                            ⚫ADOBE Premiere</p>
+                                        <ul>
+                                            <p>Figma<br></br>
+                                                Photoshop<br></br>
+                                                ADOBE Premiere</p>
+                                        </ul>
                                     </div>
                                 </div>
                             </div>

@@ -40,6 +40,25 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
+                        <h2>華捷智能股份有限公司(BERRY AI) <span>2021/04-until</span></h2>
+                        <div className="table-responsive-md">
+                          <table class="table">
+                            <p>AI標註師</p>
+                            <li>協助工程師以標註工具標註開發程式所需之訓練用資料</li>
+                            <li>協助工程師做資料比對與統計</li>
+                            <li>視專案需求協助搜尋符合開發用之各式資料</li>
+                            <li>資料標註及整理的正確率與效率</li>
+                          </table>
+                        </div>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
                         <h2>加群有限公司(USA) <span>2020/10-2021/10</span></h2>
                         <div className="table-responsive-md">
                           <table class="table">
